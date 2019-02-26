@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
         chat=findViewById(R.id.chat)
         share=findViewById(R.id.share)
 
-        
 
     }
 }
