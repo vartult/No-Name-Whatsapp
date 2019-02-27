@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-        <TextView android:text="Chat without saving phone number of the recipient."
+        <TextView android:text="Chat without saving phone number of the recipient on Whatsapp."
                 android:layout_width="match_parent"
                   android:layout_height="wrap_content"/>
 
@@ -42,24 +42,23 @@
             />-->
 
 
-            <net.rimoto.intlphoneinput.IntlPhoneInput
-                    android:focusable="false"
+            <com.lamudi.phonefield.PhoneEditText
                     android:layout_weight="1"
+                    android:textSize="20sp"
+                    android:textColor="#942345"
+                    android:id="@+id/phone"
                     android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    app:textSize="20sp"
-                    app:textColor="#942345"
-                    app:flagPaddingEnd="4dp"
-                    android:id="@+id/phone" />
+                    android:layout_height="wrap_content"/>
             <ImageView
-                    android:layout_marginTop="5dp"
+
+                    android:layout_gravity="bottom"
                     android:src="@drawable/paste"
-                    android:layout_width="40dp"
-                    android:layout_height="40dp"/>
+                    android:layout_width="35dp"
+                    android:layout_height="35dp" android:onClick="paste"/>
 
         </LinearLayout>
     <LinearLayout
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="30dp"
             android:layout_width="match_parent"
             android:orientation="horizontal"
             android:layout_height="wrap_content">
@@ -72,13 +71,13 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"/>
         <ImageView
-                android:layout_marginTop="5dp"
+                android:layout_gravity="bottom"
                 android:src="@drawable/paste"
-                android:layout_width="40dp"
-                android:layout_height="40dp"/>
+                android:layout_width="35dp"
+                android:layout_height="35dp" android:onClick="paste"/>
     </LinearLayout>
         <LinearLayout
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="40dp"
 
                 android:layout_width="match_parent"
                       android:orientation="horizontal"
@@ -90,6 +89,7 @@
                     android:text="Share"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"/>
+
             <Button android:layout_weight="1"
                     android:id="@+id/chat"
                     android:text="Chat"

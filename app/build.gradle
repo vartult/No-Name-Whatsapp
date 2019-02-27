@@ -23,6 +23,7 @@ android {
 }
 
 dependencies {
+    implementation 'com.lamudi.phonefield:phone-field:0.1.3@aar'
     implementation 'net.rimoto:intlphoneinput:1.0.1'
     implementation 'info.hoang8f:fbutton:1.0.5'
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
