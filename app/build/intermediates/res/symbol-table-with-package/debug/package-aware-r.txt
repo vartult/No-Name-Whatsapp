@@ -1296,7 +1296,7 @@ drawable drop_down_shadow
 drawable ic_arrow_drop_down_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable icon
+drawable iconicon
 drawable met_ic_clear
 drawable notification_action_background
 drawable notification_bg

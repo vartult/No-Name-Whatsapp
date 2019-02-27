@@ -6,23 +6,29 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.3.1"
-    timestamp="1551295225316"
+    timestamp="1551295641686"
     token="-7071390126412975296"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="675" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="14" />
     <task
         name="verifier"
-        duration="0" />
+        duration="30" />
 
+    <artifact
+        location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
     <artifact
         location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
@@ -42,9 +48,6 @@
         location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
@@ -57,16 +60,19 @@
         location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1551295225316"
+        timestamp="1551295641686"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
@@ -86,9 +92,6 @@
             location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
@@ -99,9 +102,6 @@
             type="SPLIT" />
         <artifact
             location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/instant-run-apk/debug/app-debug.apk"

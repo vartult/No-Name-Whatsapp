@@ -3900,7 +3900,7 @@ public final class R {
     public static final int ic_arrow_drop_down_black_24dp=0x7f060285;
     public static final int ic_launcher_background=0x7f060286;
     public static final int ic_launcher_foreground=0x7f060287;
-    public static final int icon=0x7f060288;
+    public static final int iconicon=0x7f060288;
     public static final int met_ic_clear=0x7f060289;
     public static final int notification_action_background=0x7f06028a;
     public static final int notification_bg=0x7f06028b;

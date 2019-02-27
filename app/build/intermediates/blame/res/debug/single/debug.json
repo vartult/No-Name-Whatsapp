@@ -32,16 +32,16 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_dz.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_dz.png"
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_us_ct.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_us_ct.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_dz.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_dz.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_pm.png.flat",
@@ -76,12 +76,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_bq.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_dk.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_dk.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_dk.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_dk.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_ar.png.flat",
@@ -92,12 +92,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_hr.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_vn.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_vn.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_vn.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_vn.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_ca.png.flat",
@@ -140,24 +140,24 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_fi.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_fi.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_fi.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_fi.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_kz.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_kz.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_cp.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_cp.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_us_az.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_us_az.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_cp.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_cp.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_us_mi.png.flat",
@@ -172,12 +172,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_tt.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_tt.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_tt.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_tt.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_hr.png.flat",
@@ -400,12 +400,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/nice-spinner-1.3.8.aar/8ff12bf61a995673779c92ec6fa4f014/res/drawable-nodpi-v4/drop_down_shadow.9.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_lu.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_lu.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_us_me.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_us_me.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_lu.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_lu.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_no.png.flat",
@@ -444,12 +444,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
@@ -620,12 +620,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_ug.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_ug.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_ug.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_ug.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -732,12 +732,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_ng.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_ng.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_ng.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_ng.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_mp.png.flat",
@@ -756,12 +756,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_bf.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -924,12 +924,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/layout/intl_phone_input.xml"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
@@ -1020,12 +1020,12 @@
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_br.png"
     },
     {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_gr.png.flat",
-        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_gr.png"
-    },
-    {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_ba.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_ba.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_gr.png.flat",
+        "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/res/drawable/country_gr.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_country_kw.png.flat",
@@ -1934,6 +1934,10 @@
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_tr.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/res/drawable-xhdpi-v4/country_flag_tr.png"
+    },
+    {
+        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable_iconicon.png.flat",
+        "source": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/res/drawable/iconicon.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -2998,10 +3002,6 @@
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-v24_icon.png.flat",
-        "source": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/res/drawable-v24/icon.png"
     },
     {
         "merged": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_country_flag_aq.png.flat",
