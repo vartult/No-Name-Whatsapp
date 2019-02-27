@@ -50,7 +50,6 @@ class MainActivity : AppCompatActivity() {
 
             if(valid==false) {
                 preprocess()
-                openInWhatsapp()
                 shareaddress(extradata)
             }
             }
