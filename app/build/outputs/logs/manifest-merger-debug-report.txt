@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.lamudi.phonefield:phone-field:0.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/AndroidManifest.xml:2:1-17:12
+MERGED from [net.rimoto:intlphoneinput:1.0.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/AndroidManifest.xml:2:1-16:12
+MERGED from [info.hoang8f:fbutton:1.0.5] /home/vartul/.gradle/caches/transforms-1/files-1.1/fbutton-1.0.5.aar/90758c6427575ab826176386aa12fdb9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/vartul/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/1fa48d4acce8f723a407f25359f33ef7/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.arcadefire:nice-spinner:1.3.8] /home/vartul/.gradle/caches/transforms-1/files-1.1/nice-spinner-1.3.8.aar/8ff12bf61a995673779c92ec6fa4f014/AndroidManifest.xml:2:1-9:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/4a52fdc2ee5d34227b0b24fc7b3b84bd/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3561e7526249a26fdfea1b0bc736e134/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/00d23988e565add507cf86548c4df937/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f3064228033bc8c975fb181714829a82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a6d7f95170d7dc76f457450af2ed97cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0cca142f50bbc59a544f35a05e36eacc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d885df516151c6e54954ab463e09fda3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4dff82a29ec4abb2cdca8026b7f84e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/487763c3f0407ddba540c778053b935b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/320bfc89a25adbc8b3e795a148548126/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f1a1f83c368de00b10a0709b460cd322/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e11a00d5233fbacd48ac6b7b330a0786/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/99e0d7ba87adde1cc45d65cb5033c1e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cbd6ec44a81ff32fab6b2398860bd448/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/002f29e35d2a48b56a0f665c10872151/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ed1b1fa68f28e293d2fab24a177d0395/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/85a00cf286049f710003ecf2bf496c42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c0abbe1133fded011893b005476baa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a4b229035ea2c655e3b93fbb6f144498/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5f709c0ff80846637d152a4831cc8616/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/269cc65c14c7760e5b841d6afc12d281/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b2f115b38e894a840a252d291fb2e1af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a506711e188aa8d3bad7b36bd0d69ae7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cd60cabf955de320a14cca31b1c65157/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/26eeada6df1d03eb42103b90412bd0df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d369df3f28a3c51f34371f21babadb0c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:3:11-52
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.lamudi.phonefield:phone-field:0.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/AndroidManifest.xml:11:5-15:19
+MERGED from [com.lamudi.phonefield:phone-field:0.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/AndroidManifest.xml:11:5-15:19
+MERGED from [net.rimoto:intlphoneinput:1.0.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/AndroidManifest.xml:11:5-14:19
+MERGED from [net.rimoto:intlphoneinput:1.0.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/AndroidManifest.xml:11:5-14:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/4a52fdc2ee5d34227b0b24fc7b3b84bd/AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/4a52fdc2ee5d34227b0b24fc7b3b84bd/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3561e7526249a26fdfea1b0bc736e134/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3561e7526249a26fdfea1b0bc736e134/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ed1b1fa68f28e293d2fab24a177d0395/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ed1b1fa68f28e293d2fab24a177d0395/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:7:13-42
+	android:allowBackup
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.cellfishpool.nonamewhatsapp.MainActivity
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+MERGED from [com.lamudi.phonefield:phone-field:0.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lamudi.phonefield:phone-field:0.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/phone-field-0.1.3.aar/9389790fca88ac0cdee1b00efbb6d216/AndroidManifest.xml:7:5-9:41
+MERGED from [net.rimoto:intlphoneinput:1.0.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/AndroidManifest.xml:7:5-9:41
+MERGED from [net.rimoto:intlphoneinput:1.0.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/intlphoneinput-1.0.1.aar/2d56a2007c66b1ab5d225d4d2dd2edc7/AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:fbutton:1.0.5] /home/vartul/.gradle/caches/transforms-1/files-1.1/fbutton-1.0.5.aar/90758c6427575ab826176386aa12fdb9/AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:fbutton:1.0.5] /home/vartul/.gradle/caches/transforms-1/files-1.1/fbutton-1.0.5.aar/90758c6427575ab826176386aa12fdb9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/vartul/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/1fa48d4acce8f723a407f25359f33ef7/AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/vartul/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/1fa48d4acce8f723a407f25359f33ef7/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.arcadefire:nice-spinner:1.3.8] /home/vartul/.gradle/caches/transforms-1/files-1.1/nice-spinner-1.3.8.aar/8ff12bf61a995673779c92ec6fa4f014/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.arcadefire:nice-spinner:1.3.8] /home/vartul/.gradle/caches/transforms-1/files-1.1/nice-spinner-1.3.8.aar/8ff12bf61a995673779c92ec6fa4f014/AndroidManifest.xml:5:5-7:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/4a52fdc2ee5d34227b0b24fc7b3b84bd/AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/4a52fdc2ee5d34227b0b24fc7b3b84bd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3561e7526249a26fdfea1b0bc736e134/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/vartul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3561e7526249a26fdfea1b0bc736e134/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/00d23988e565add507cf86548c4df937/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/00d23988e565add507cf86548c4df937/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f3064228033bc8c975fb181714829a82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f3064228033bc8c975fb181714829a82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a6d7f95170d7dc76f457450af2ed97cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a6d7f95170d7dc76f457450af2ed97cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0cca142f50bbc59a544f35a05e36eacc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0cca142f50bbc59a544f35a05e36eacc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d885df516151c6e54954ab463e09fda3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d885df516151c6e54954ab463e09fda3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4dff82a29ec4abb2cdca8026b7f84e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4dff82a29ec4abb2cdca8026b7f84e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/487763c3f0407ddba540c778053b935b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/487763c3f0407ddba540c778053b935b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/320bfc89a25adbc8b3e795a148548126/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/320bfc89a25adbc8b3e795a148548126/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f1a1f83c368de00b10a0709b460cd322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f1a1f83c368de00b10a0709b460cd322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e11a00d5233fbacd48ac6b7b330a0786/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e11a00d5233fbacd48ac6b7b330a0786/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/99e0d7ba87adde1cc45d65cb5033c1e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/99e0d7ba87adde1cc45d65cb5033c1e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cbd6ec44a81ff32fab6b2398860bd448/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cbd6ec44a81ff32fab6b2398860bd448/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/002f29e35d2a48b56a0f665c10872151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/002f29e35d2a48b56a0f665c10872151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ed1b1fa68f28e293d2fab24a177d0395/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ed1b1fa68f28e293d2fab24a177d0395/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/85a00cf286049f710003ecf2bf496c42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/85a00cf286049f710003ecf2bf496c42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c0abbe1133fded011893b005476baa9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c0abbe1133fded011893b005476baa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a4b229035ea2c655e3b93fbb6f144498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a4b229035ea2c655e3b93fbb6f144498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5f709c0ff80846637d152a4831cc8616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5f709c0ff80846637d152a4831cc8616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/269cc65c14c7760e5b841d6afc12d281/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/269cc65c14c7760e5b841d6afc12d281/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b2f115b38e894a840a252d291fb2e1af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b2f115b38e894a840a252d291fb2e1af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a506711e188aa8d3bad7b36bd0d69ae7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a506711e188aa8d3bad7b36bd0d69ae7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cd60cabf955de320a14cca31b1c65157/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cd60cabf955de320a14cca31b1c65157/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/26eeada6df1d03eb42103b90412bd0df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/vartul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/26eeada6df1d03eb42103b90412bd0df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d369df3f28a3c51f34371f21babadb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/vartul/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d369df3f28a3c51f34371f21babadb0c/AndroidManifest.xml:20:5-44
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml

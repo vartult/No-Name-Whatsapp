@@ -113,5 +113,5 @@ class MainActivity : AppCompatActivity() {
         val imm = v.context.applicationContext.getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
         imm.hideSoftInputFromWindow(v.windowToken, 0)
     }
-    
+
 }
