@@ -58,7 +58,9 @@ class MainActivity : AppCompatActivity() {
     private fun shareaddress(extradata: String?) {
         var intent= Intent(Intent.ACTION_SEND)
         intent.setType("text/plain")
-        var lineshare= "You can chat via \n" + "https://wa.me/" + phoneno +"\n MSG FOR YOU \n"+extradata
+        var lineshare= "You can chat via \n" + "https://wa.me/" + phoneno
+        if(extradata!="")
+            lineshare=lineshare+"\n MSG FOR YOU \n"+extradata
         intent.putExtra(Intent.EXTRA_TEXT,lineshare)
         startActivity(Intent.createChooser(intent,"Share Link Using"))
 
