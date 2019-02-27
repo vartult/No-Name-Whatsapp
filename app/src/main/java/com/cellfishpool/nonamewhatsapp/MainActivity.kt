@@ -39,16 +39,21 @@ class MainActivity : AppCompatActivity() {
         phone.setDefaultCountry("IN")
         chat.setOnClickListener{
             validate(phone)
-            preprocess()
-            openInWhatsapp()
-
+            if(valid==false) {
+                preprocess()
+                openInWhatsapp()
+            }
         }
         share.setOnClickListener{
             var extradata:String?=msg.text.toString()
             validate(phone)
-            preprocess()
-            shareaddress(extradata)
-        }
+
+            if(valid==false) {
+                preprocess()
+                openInWhatsapp()
+                shareaddress(extradata)
+            }
+            }
     }
 
     private fun shareaddress(extradata: String?) {
@@ -109,5 +114,4 @@ class MainActivity : AppCompatActivity() {
         imm.hideSoftInputFromWindow(v.windowToken, 0)
     }
     
-
 }
