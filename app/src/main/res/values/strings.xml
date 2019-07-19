@@ -1,4 +1,16 @@
 <resources>
-    <string name="app_name">NoNameWhatsapp</string>
+    <string name="app_name">Direct Whatsapp</string>
     <string name="chat">Open Chat</string>
+
+    <string name="title1">Direst Whatsapp</string>
+    <string name="description1">Now you need not to save unknown phone numbers before sending message on whatsapp</string>
+
+    <string name="title2">Just Enter their Phone Number &amp; Message </string>
+    <string name="description2"></string>
+    <string name="title3">Click on Open Chat</string>
+    <string name="description3"></string>
+
+    <string name="description4">Whatsapp chat dialog for the number pops up </string>
+    <string name="title4">You are good to go!</string>
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>

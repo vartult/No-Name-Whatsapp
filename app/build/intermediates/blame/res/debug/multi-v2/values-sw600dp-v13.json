@@ -4,6 +4,23 @@
             "outputFile": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
+                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/630c5ec95a8c94594593f95c9d387a7e/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,58",
+                        "endOffsets": "108,167"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,669",
+                        "endColumns": "57,58",
+                        "endOffsets": "664,723"
+                    }
+                },
+                {
                     "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/955ee11862a954efe49a21ba157cd0ce/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
