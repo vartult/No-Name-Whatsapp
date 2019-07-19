@@ -5,7 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#808080"
+        android:background="@drawable/bg"
         tools:context=".MainActivity">
 
 
@@ -25,22 +25,6 @@
                 android:layout_width="match_parent"
                       android:orientation="horizontal"
                       android:layout_height="wrap_content">
-
-
-            <!--<com.rengwuxian.materialedittext.MaterialEditText
-                    android:focusable="true"
-                    android:drawableStart="@drawable/ic_arrow_drop_down_black_24dp"
-                    android:inputType="phone"
-                    android:drawablePadding="5dp"
-                    app:met_primaryColor="#450150"
-                    android:id="@+id/phone"
-                    android:hint="Phone Number"
-                    android:layout_width="302dp"
-                    android:layout_height="wrap_content"
-                    app:met_floatingLabel="highlight"
-                    app:met_maxCharacters="10"
-            />-->
-
 
             <com.lamudi.phonefield.PhoneEditText
                     android:layout_weight="1"
@@ -83,16 +67,12 @@
                       android:orientation="horizontal"
                       android:layout_height="wrap_content">
 
-            <Button
-                    android:layout_weight="1"
-                    android:id="@+id/share"
-                    android:text="Share"
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"/>
 
-            <Button android:layout_weight="1"
+            <Button
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_weight="1"
                     android:id="@+id/chat"
-                    android:text="Chat"
+                    android:text="@string/chat"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"/>
 

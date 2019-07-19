@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NoNameWhatsapp</string>
+    <string name="chat">Open Chat</string>
 </resources>

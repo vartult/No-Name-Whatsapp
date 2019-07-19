@@ -4,7 +4,7 @@
             "outputFile": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/40c7af09e7b9b4b5528677b9685e8c1f/res/values-v16/values-v16.xml",
+                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/6538a142b7fa9494631beb4a1ef51dfb/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d102d9bde9a57eb1a76a2852699b2e22/res/values-v16/values-v16.xml",
+                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/955ee11862a954efe49a21ba157cd0ce/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

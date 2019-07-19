@@ -34,7 +34,6 @@ class MainActivity : AppCompatActivity() {
         var phone=findViewById<PhoneEditText>(R.id.phone)
         var msg=findViewById<EditText>(R.id.msg)
         var chat=findViewById<Button>(R.id.chat)
-        var share=findViewById<Button>(R.id.share)
 
         phone.setDefaultCountry("IN")
         chat.setOnClickListener{
@@ -44,27 +43,10 @@ class MainActivity : AppCompatActivity() {
                 openInWhatsapp()
             }
         }
-        share.setOnClickListener{
-            var extradata:String?=msg.text.toString()
-            validate(phone)
-
-            if(valid==false) {
-                preprocess()
-                shareaddress(extradata)
-            }
-            }
+//
     }
 
-    private fun shareaddress(extradata: String?) {
-        var intent= Intent(Intent.ACTION_SEND)
-        intent.setType("text/plain")
-        var lineshare= "You can chat via \n" + "https://wa.me/" + phoneno
-        if(extradata!="")
-            lineshare=lineshare+"\n MSG FOR YOU \n"+extradata
-        intent.putExtra(Intent.EXTRA_TEXT,lineshare)
-        startActivity(Intent.createChooser(intent,"Share Link Using"))
 
-    }
 
     private fun preprocess() {
 
@@ -80,7 +62,7 @@ class MainActivity : AppCompatActivity() {
                 phone.setError(null)
                 hideKeyboard(phone)
                 valid=false
-            } else {
+            } else{
                 phone.setError("Invalid Phone Number")
                 hideKeyboard(phone)
             }

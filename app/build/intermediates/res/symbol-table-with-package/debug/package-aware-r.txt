@@ -734,6 +734,8 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable arrow
+drawable bg
+drawable button_style
 drawable country_ac
 drawable country_ad
 drawable country_ae
@@ -1436,7 +1438,6 @@ id search_plate
 id search_src_text
 id search_voice_btn
 id select_dialog_listview
-id share
 id shortcut
 id showCustom
 id showHome
@@ -1567,6 +1568,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string chat
 string com_lamudi_phonefield_edittext
 string com_lamudi_phonefield_flag_spinner
 string com_lamudi_phonefield_til_phone
