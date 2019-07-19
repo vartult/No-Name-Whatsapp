@@ -22,12 +22,13 @@ import android.view.inputmethod.InputMethodManager
 import android.content.ClipData
 import android.support.v7.app.ActionBar
 import android.util.Log
+import android.widget.ImageView
 
 
 class MainActivity : AppCompatActivity() {
 
 
-
+    var imageView:ImageView?=null
     var phoneno: String="123"
     var final_msg:String="Hey"
     var valid=true
@@ -39,10 +40,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         setContentView(R.layout.activity_main)
+        var i= Intent(this,IntroActivity::class.java)
+        startActivity(i)
 
+        imageView=findViewById(R.id.imageView)
         var phone=findViewById<PhoneEditText>(R.id.phone)
         msg=findViewById(R.id.msg)
         var chat=findViewById<Button>(R.id.chat)
+
+        imageView?.setOnClickListener {
+            val intent = Intent(this@MainActivity, About::class.java)
+            startActivity(intent)
+        }
 
         phone.setDefaultCountry("IN")
         chat.setOnClickListener{

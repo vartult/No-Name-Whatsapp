@@ -49,8 +49,7 @@ class IntroActivity : AppIntro2() {
     override fun onDonePressed(currentFragment: Fragment?) {
         super.onDonePressed(currentFragment)
         // Do something when users tap on Done button.
-        i= Intent(this,MainActivity::class.java)
-        startActivity(i)
+        finish()
 
     }
 

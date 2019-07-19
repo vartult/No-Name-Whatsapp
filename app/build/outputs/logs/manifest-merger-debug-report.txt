@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.github.AppIntro:AppIntro:4.2.3] /home/vartul/.gradle/caches/transforms-2/files-2.1/630c5ec95a8c94594593f95c9d387a7e/AndroidManifest.xml:2:1-13:12
 MERGED from [com.lamudi.phonefield:phone-field:0.1.3] /home/vartul/.gradle/caches/transforms-2/files-2.1/62a1c40d645ae61dba73f2a04db96fab/AndroidManifest.xml:2:1-17:12
 MERGED from [net.rimoto:intlphoneinput:1.0.1] /home/vartul/.gradle/caches/transforms-2/files-2.1/2c36471c611a62fcbf583db5df046138/AndroidManifest.xml:2:1-16:12
@@ -40,29 +40,29 @@ MERGED from [com.android.support:interpolator:28.0.0] /home/vartul/.gradle/cache
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vartul/.gradle/caches/transforms-2/files-2.1/a3e1eeb7106760e0dfc20c1f167c4e2c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vartul/.gradle/caches/transforms-2/files-2.1/0c7c79bcda3a2fe15605cb0e7ffccf33/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/vartul/.gradle/caches/transforms-2/files-2.1/2a98e95a40faee8bbe96a4f735c70645/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:3:11-52
 		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.VIBRATE
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:4:5-66
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:4:22-63
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:5:22-63
 application
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:5:5-25:19
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:7:5-27:19
 MERGED from [com.github.AppIntro:AppIntro:4.2.3] /home/vartul/.gradle/caches/transforms-2/files-2.1/630c5ec95a8c94594593f95c9d387a7e/AndroidManifest.xml:11:5-47
 MERGED from [com.github.AppIntro:AppIntro:4.2.3] /home/vartul/.gradle/caches/transforms-2/files-2.1/630c5ec95a8c94594593f95c9d387a7e/AndroidManifest.xml:11:5-47
 MERGED from [com.lamudi.phonefield:phone-field:0.1.3] /home/vartul/.gradle/caches/transforms-2/files-2.1/62a1c40d645ae61dba73f2a04db96fab/AndroidManifest.xml:11:5-15:19
@@ -80,37 +80,41 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vartul/.gradl
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/vartul/.gradle/caches/transforms-2/files-2.1/6538a142b7fa9494631beb4a1ef51dfb/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:12:13-39
 	android:label
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:10:13-45
 	android:roundIcon
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:9:13-47
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:11:13-47
 	android:icon
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:7:13-42
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:9:13-42
 	android:allowBackup
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:8:13-39
 	android:theme
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:11:13-44
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:13:13-44
+activity#com.cellfishpool.nonamewhatsapp.About
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:14:19-40
 activity#com.cellfishpool.nonamewhatsapp.MainActivity
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:16:17-68
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:18:17-68
 	android:name
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:18:17-76
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:20:17-76
 	android:name
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:20:27-74
 activity#com.cellfishpool.nonamewhatsapp.IntroActivity
-ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:21:9-23:20
+ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:23:9-26:20
 	android:label
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:22:19-51
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:25:17-49
 	android:name
-		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:21:19-48
+		ADDED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml:24:17-46
 uses-sdk
 INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/AndroidManifest.xml
