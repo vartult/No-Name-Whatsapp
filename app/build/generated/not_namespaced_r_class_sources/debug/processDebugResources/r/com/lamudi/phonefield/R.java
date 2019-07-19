@@ -762,7 +762,7 @@ public final class R {
         public static final int country_flag_za = 0x7f060197;
         public static final int country_flag_zm = 0x7f060198;
         public static final int country_flag_zw = 0x7f060199;
-        public static final int notification_template_icon_bg = 0x7f060292;
+        public static final int notification_template_icon_bg = 0x7f060291;
     }
     public static final class id {
         private id() {}
