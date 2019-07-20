@@ -42,13 +42,18 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var spref= getPreferences(Context.MODE_PRIVATE)
-        var editor= spref.edit()
-        editor.putInt()
-        editor.apply()
+//        var editor= spref.edit()
+//        editor.putBoolean("open",true)
+//        editor.apply()
 
-        var i= Intent(this,IntroActivity::class.java)
-        startActivity(i)
-
+        if(spref.getBoolean("open",true)) {
+            var editor=spref.edit()
+            editor.putBoolean("open",false)
+            editor.apply()
+            Log.i("Hello",spref.getBoolean("open",false).toString())
+            var i = Intent(this, IntroActivity::class.java)
+            startActivity(i)
+        }
         imageView=findViewById(R.id.imageView)
         var phone=findViewById<PhoneEditText>(R.id.phone)
         msg=findViewById(R.id.msg)
