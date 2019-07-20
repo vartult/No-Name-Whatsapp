@@ -6,12 +6,11 @@
                 {
                     "source": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,5,-1,11,13,-1,8,-1,-1",
-                        "startColumns": "-1,-1,4,-1,4,4,-1,4,-1,-1",
-                        "startOffsets": "-1,-1,164,-1,483,586,-1,308,-1,-1",
-                        "endLines": "-1,-1,6,-1,11,13,-1,8,-1,-1",
-                        "endColumns": "-1,-1,13,-1,101,84,-1,78,-1,-1",
-                        "endOffsets": "-1,-1,302,-1,580,666,-1,382,-1,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,4,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,4,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,113,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,50,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,159,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "458,459,464,466,467,468,484,485,486,487",
