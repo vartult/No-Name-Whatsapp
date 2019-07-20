@@ -38,22 +38,24 @@
 
 
     <LinearLayout
-            android:layout_marginTop="62dp"
             android:padding="10dp"
+            android:layout_marginTop="60dp"
+            android:paddingTop="20dp"
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
+        <TextView android:textSize="16sp"
+                android:text="Enter Phone Number &amp; message"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"/>
 
 
         <LinearLayout
-                android:layout_marginTop="15dp"
+                android:layout_marginTop="5dp"
                 android:layout_width="match_parent"
                       android:orientation="horizontal"
                       android:layout_height="wrap_content">r
-            <TextView android:text="Enter Phone Number &amp; msh"
-                    android:layout_width="match_parent"
-                      android:layout_height="wrap_content"/>
 
             <com.lamudi.phonefield.PhoneEditText
                     android:autofillHints="Phone Number"

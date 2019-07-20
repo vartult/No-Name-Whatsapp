@@ -8,7 +8,7 @@
         tools:context=".About">
 
     <TextView
-            android:text=" Direct Whatsapp is using official public API available from our favourite messenger app.\u2764"
+            android:text="Direct Whatsapp is using official public API available from our favourite messenger app.\u2764"
             android:layout_width="294dp"
             android:layout_height="172dp"
             android:id="@+id/textView2"

@@ -40,6 +40,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         setContentView(R.layout.activity_main)
+
+        var spref= getPreferences(Context.MODE_PRIVATE)
+        var editor= spref.edit()
+        editor.putInt()
+        editor.apply()
+
         var i= Intent(this,IntroActivity::class.java)
         startActivity(i)
 
