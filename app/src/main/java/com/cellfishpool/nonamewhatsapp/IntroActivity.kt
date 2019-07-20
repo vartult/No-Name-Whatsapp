@@ -31,7 +31,7 @@ class IntroActivity : AppIntro2() {
         showSkipButton(true)
                 setProgressButtonEnabled(true)
 
-        setFlowAnimation()
+        //setFlowAnimation()
         setVibrate(true)
         setVibrateIntensity(100)
     }
