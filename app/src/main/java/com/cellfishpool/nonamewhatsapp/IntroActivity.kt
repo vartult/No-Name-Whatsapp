@@ -14,9 +14,6 @@ import com.github.paolorotolo.appintro.AppIntro2
 
 class IntroActivity : AppIntro2() {
 
-    var i:Intent?= null
-
-
     override fun onCreate(@Nullable savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -27,20 +24,17 @@ class IntroActivity : AppIntro2() {
         addSlide(AppIntroFragment.newInstance(getString(R.string.title3),getString(R.string.description3),R.drawable.ss2,getColor(R.color.red)))
 
         addSlide(AppIntroFragment.newInstance(getString(R.string.title4),getString(R.string.description4),R.drawable.res,getColor(R.color.yellow)))
-        // Hide Skip/Done button.
         showSkipButton(true)
-                setProgressButtonEnabled(true)
+        setProgressButtonEnabled(true)
 
-        //setFlowAnimation()
+
         setVibrate(true)
         setVibrateIntensity(100)
     }
 
     override fun onSkipPressed(currentFragment: Fragment?) {
         super.onSkipPressed(currentFragment)
-        // Do something when users tap on Skip button.
-//        i= Intent(this,MainActivity::class.java)
-//        startActivity(i)
+
 
         finish()
 

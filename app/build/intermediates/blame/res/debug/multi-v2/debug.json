@@ -3435,11 +3435,11 @@
                 {
                     "source": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "11,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "359,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "39,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "394,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,9",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,4",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,317",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,40",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,353"
                     },
                     "to": {
                         "startLines": "151,152,161,162,163,195,225,238",

@@ -15,12 +15,7 @@ import android.content.Intent
 import android.content.ComponentName
 import android.content.Context
 import java.net.URISyntaxException
-import android.content.Context.INPUT_METHOD_SERVICE
-import android.support.v4.content.ContextCompat.getSystemService
-import android.text.ClipboardManager
 import android.view.inputmethod.InputMethodManager
-import android.content.ClipData
-import android.support.v7.app.ActionBar
 import android.util.Log
 import android.widget.ImageView
 
@@ -42,9 +37,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var spref= getPreferences(Context.MODE_PRIVATE)
-//        var editor= spref.edit()
-//        editor.putBoolean("open",true)
-//        editor.apply()
+
 
         if(spref.getBoolean("open",true)) {
             var editor=spref.edit()
@@ -60,7 +53,7 @@ class MainActivity : AppCompatActivity() {
         var chat=findViewById<Button>(R.id.chat)
 
         imageView?.setOnClickListener {
-            val intent = Intent(this@MainActivity, About::class.java)
+            val intent = Intent(this@MainActivity, IntroActivity::class.java)
             startActivity(intent)
         }
 
