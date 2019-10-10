@@ -4,4 +4,4 @@ No hack or tricks!!
 
 The application is built on Kotlin and does supports Android X compartibility.
 
-Stay connected with everyone. 
+Stay connected with everyone. :heart: 
