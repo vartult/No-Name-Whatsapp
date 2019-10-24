@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "outputFile": "C:\\Users\\Vartul Tripathi\\AndroidStudioProjects\\No-Name-Whatsapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/630c5ec95a8c94594593f95c9d387a7e/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\85c3892df0ffc5812a3b118adb2eb5fd\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

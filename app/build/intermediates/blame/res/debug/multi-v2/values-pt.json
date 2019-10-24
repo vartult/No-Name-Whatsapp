@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "outputFile": "C:\\Users\\Vartul Tripathi\\AndroidStudioProjects\\No-Name-Whatsapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
             "map": [
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/955ee11862a954efe49a21ba157cd0ce/res/values-pt/values-pt.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\71f13511f3d9f6d0bbf5570ae2a19286\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/6538a142b7fa9494631beb4a1ef51dfb/res/values-pt/values-pt.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\3b2c6c2ca589fd9748ca8b78b64d3663\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/630c5ec95a8c94594593f95c9d387a7e/res/values-pt/values-pt.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\85c3892df0ffc5812a3b118adb2eb5fd\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vartul/AndroidStudioProjects/NoNameWhatsapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "C:\\Users\\Vartul Tripathi\\AndroidStudioProjects\\No-Name-Whatsapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/6538a142b7fa9494631beb4a1ef51dfb/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\3b2c6c2ca589fd9748ca8b78b64d3663\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,26 +23,26 @@
                     }
                 },
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/630c5ec95a8c94594593f95c9d387a7e/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\3c3256cc9349dfb1e69b6dbdafe87e6d\\res\\values-v21\\values-v21.xml",
                     "from": {
-                        "startLines": "2,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,245",
-                        "endLines": "4,9",
-                        "endColumns": "12,12",
-                        "endOffsets": "240,544"
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
                     },
                     "to": {
-                        "startLines": "6,9",
-                        "startColumns": "4,4",
-                        "startOffsets": "354,544",
-                        "endLines": "8,13",
-                        "endColumns": "12,12",
-                        "endOffsets": "539,843"
+                        "startLines": "273,276,280,284",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19998,20166,20455,20751",
+                        "endLines": "275,278,282,286",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "20161,20324,20618,20913"
                     }
                 },
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/955ee11862a954efe49a21ba157cd0ce/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\71f13511f3d9f6d0bbf5570ae2a19286\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,22 +61,22 @@
                     }
                 },
                 {
-                    "source": "/home/vartul/.gradle/caches/transforms-2/files-2.1/6107d5d5e69a941b20cf638804ddf505/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Vartul Tripathi\\.gradle\\caches\\transforms-2\\files-2.1\\85c3892df0ffc5812a3b118adb2eb5fd\\res\\values-v21\\values-v21.xml",
                     "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,245",
+                        "endLines": "4,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "240,544"
                     },
                     "to": {
-                        "startLines": "273,276,280,284",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "19998,20166,20455,20751",
-                        "endLines": "275,278,282,286",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "20161,20324,20618,20913"
+                        "startLines": "6,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "354,544",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "539,843"
                     }
                 }
             ]
