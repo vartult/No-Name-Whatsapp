@@ -1,0 +1,4 @@
+jobs:
+  build-android:
+    docker:
+      - image: circleci/android:api-25-alpha
